@@ -1,0 +1,237 @@
+    1  sudo apt update
+    2  sudo apt install neofetch
+    3  neofetch
+    4  date; ls
+    5  dir
+    6  ls
+    7  clear
+    8  nano test.txt
+    9  dir
+   10  cat test.txt && date
+   11  rm test.txt
+   12  cat test.txt && date
+   13  neofetch
+   14  poweroff
+   15  neofetch
+   16  df -h
+   17  losetup
+   18  date; ls
+   19  neofetch
+   20  poweroff
+   21  claer
+   22  clear
+   23  date; ls
+   24  nano test.tct
+   25  nano test.txt
+   26  dir
+   27  cat test.txt && date
+   28  rm test.txt
+   29  cat test.txt && date
+   30  dir
+   31  nano hello.sh
+   32  ditr
+   33  dit
+   34  dir
+   35  clear
+   36  dir
+   37  ls -l
+   38  id
+   39  sudo adduser jamal
+   40  dir
+   41  ls -l
+   42  id
+   43  id jamal
+   44  chmod +x hello.sh
+   45  ls -l
+   46  ./hello.sh
+   47  dir
+   48  bash hello.sh
+   49  TEST_VAR='Hello World'
+   50  set | grep TEST_VAR
+   51  printev | grep TEST_VAR
+   52  ex
+   53  echo $TEST_VAR
+   54  bash
+   55  echo $TEST_VAT
+   56  dir
+   57  bash hello.sh
+   58  nano ngitung.sh
+   59  chmod +x ngitung.sh
+   60  bash ngitung.sh
+   61  nano ngitung.sh
+   62  bash ngitung.sh
+   63  nano ngitung.sh
+   64  bash ngitung.sh
+   65  nano ngitung.sh
+   66  bash ngitung.sh
+   67  nano ngitung.sh
+   68  bash ngitung.sh
+   69  nano ngitung.sh
+   70  bash ngitung.sh
+   71  nano ngitung.sh
+   72  bash ngitung.sh
+   73  nano ngitung.sh
+   74  bash ngitung.sh
+   75  nano ngitung.sh
+   76  bash ngitung.sh
+   77  nano ngitung.sh
+   78  nano array.sh
+   79  bash array.sh
+   80  nano array.sh
+   81  bash array.sh
+   82  nano array.sh
+   83  bash array.sh
+   84  nano array.sh
+   85  bash array.sh
+   86  nano array.sh
+   87  bash array.sh
+   88  nano array.sh
+   89  bash array.sh
+   90  nano array.sh
+   91  bash array.sh
+   92  nano array.sh
+   93  bash array.sh
+   94  nano array.sh
+   95  bash array.sh
+   96  nano array.sh
+   97  bash array.sh
+   98  nano array.sh
+   99  bash array.sh
+  100  dir ls
+  101  -l ls
+  102  clear
+  103  dir
+  104  nano hallo.txt
+  105  cat hallo.txt
+  106  bash array.sh
+  107  bash ngitung.sh
+  108  nano array.sh
+  109  bash array.sh
+  110  nano array2.sh
+  111  bash array2.sh
+  112  nano array.sh
+  113  nano array2.sh
+  114  bash array2.sh
+  115  nano array2.sh
+  116  bash array2.sh
+  117  bash array.sh
+  118  neofetch
+  119  id
+  120  sudo apt update
+  121  sudo apt upgrade
+  122  nano contoh-if.sh
+  123  chmod +x contoh-if.sh
+  124  ./contoh-if.sh 
+  125  nano contoh-if.sh
+  126  ./contoh-if.sh 
+  127  nano contoh-if.sh
+  128   contoh-if2.sh
+  129  chmod +x contoh-if2.sh
+  130  ./contoh-if2.sh 
+  131  ./contoh-if.sh 
+  132  poweroff
+  133  dir
+  134  nano contoh-if3.sh
+  135  chmod +x contoh-if3.sh
+  136  ./contoh-if3.sh 
+  137  nano contoh-if3.sh
+  138  ./contoh-if3.sh 
+  139  nano contoh-if3.sh
+  140  ./contoh-if3.sh 
+  141  nano contoh-for.sh
+  142  ./contoh-for.sh
+  143  chmod x+ contoh-for.sh
+  144  chmod +x contoh-for.sh
+  145  ./contoh-for.sh
+  146  nano berkas.sh
+  147  chmod +x berkas.sh
+  148  ./berkas.sh
+  149  nano contoh-while.sh
+  150  chmod +x contoh-while.sh
+  151  ./contoh-while.sh
+  152  nano contoh-while.sh
+  153  ./contoh-while.sh
+  154  nano cek-drive.sh
+  155  df -h
+  156  nano cek-drive.sh
+  157  df =h
+  158  df hh
+  159  df -h
+  160  losetup
+  161  chmod +x cek-drive.sh
+  162  ./cek-drive.sh
+  163  dir
+  164  nano halof.sh
+  165  chmod +x halof.sh
+  166  ./halof.sh
+  167  clear
+  168  df -h
+  169  nano cek-drive.sh
+  170  ./cek-drive.sh 
+  171  ./berkas.sh
+  172  nano halof2.sh
+  173  chmod +x halof2.sh
+  174  ./halof2.sh
+  175  ``
+  176  poweroff
+  177  dir
+  178  sudo apt update
+  179  df -h
+  180  dir
+  181  sdkfjshfdkjsdfdsfsdf
+  182  sdf
+  183  sdfsdfpweroff
+  184  neofetch
+  185  sudo apt update
+  186  ping google.xcom
+  187  clear
+  188  neofetch
+  189  sudo apt update
+  190  dir
+  191  ./halof2.sh
+  192  ./contoh-if3.sh
+  193  ./contoh-while.sh
+  194  ls -alh
+  195  nano nama.txt
+  196  ls -alh > ls.txt
+  197  cat ls.txt
+  198  ping google.com
+  199  poweroff
+  200  clear
+  201  neofetch
+  202  clear
+  203  dir
+  204  git clone https://github.com/dicodingacademy/a387-jarkom-labs.git
+  205  dir
+  206  clear
+  207  dir
+  208  cd a387-jarkom-labs/
+  209  dir
+  210  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+  211  nvm install v14.15.4
+  212  npm install
+  213  npm install nodejs
+  214  sudo apt install -y nodejs
+  215  node -v
+  216  npm -v
+  217  apt install npm
+  218  clear
+  219  cd
+  220  dir
+  221  sudo nano script-fajarhardeka.sh
+  222  sudo chmod +x script-fajarhardeka.sh 
+  223  ./script-fajarhardeka.sh 
+  224  sudo nano script-fajarhardeka.sh
+  225  ./script-fajarhardeka.sh 
+  226  sudo nano script-fajarhardeka.sh
+  227  ./script-fajarhardeka.sh 
+  228  sudo nano script-fajarhardeka.sh
+  229  ./script-fajarhardeka.sh 
+  230  history
+  231  sudo nano fajarhardeka_dicoding.txt
+  232  sudo remove fajarhardeka_dicoding.txt
+  233  sudo rem fajarhardeka_dicoding.txt
+  234  sudo rm fajarhardeka_dicoding.txt
+  235  dir
+  236  history
+  237  history > fajarhardeka_dicoding.txt
