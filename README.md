@@ -1,4 +1,4 @@
-# Belajar-Linux-Shell-Scripting-Dicoding
+# Linux-Shell-Scripting-Dicoding
 Proyek Shell Scripting - Fajar Hardeka
 
 # Dicoding Submission Proyek Shell Scripting - Menjadi Linux System Administrator
