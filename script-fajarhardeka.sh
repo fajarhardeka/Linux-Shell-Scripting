@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# Menggunakan perulangan agar program berjalan terus menerus
 while :
 do
 # Menamplikan memory dalam ukuran satuan megabytes
